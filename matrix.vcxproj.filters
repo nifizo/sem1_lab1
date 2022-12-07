@@ -18,13 +18,16 @@
     <ClCompile Include="matrix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="realization.cpp">
+    <ClCompile Include="skipList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="skip_realization.cpp">
+    <ClCompile Include="dot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Dots.cpp">
+    <ClCompile Include="figure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -33,6 +36,12 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="SkipList.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dot.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Figure.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

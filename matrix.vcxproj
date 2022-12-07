@@ -139,12 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="figure.cpp" />
     <ClCompile Include="matrix.cpp" />
-    <ClCompile Include="realization.cpp" />
-    <ClCompile Include="skip_realization.cpp" />
-    <ClCompile Include="Dots.cpp" />
+    <ClCompile Include="skipList.cpp" />
+    <ClCompile Include="dot.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Dot.h" />
+    <ClInclude Include="Figure.h" />
     <ClInclude Include="SkipList.h" />
     <ClInclude Include="Matrix.h" />
   </ItemGroup>
